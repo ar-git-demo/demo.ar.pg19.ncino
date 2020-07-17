@@ -1,0 +1,12 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        0100n3y1100110tRfM-test:
+          path: dataset/0100n3y1100110tRfM-test
+          prefix: ncino2
+          standardFeature: false
+          versions:
+            '1.0':
+              modifiedDate: '2020-07-17 15:36:27'

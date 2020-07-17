@@ -1,0 +1,43 @@
+{
+  "name": "1_nFORCE__Layout__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "CreatedDate",
+    "CreatedById",
+    "LastModifiedDate",
+    "LastModifiedById",
+    "SystemModstamp",
+    "ConnectionReceivedId",
+    "ConnectionSentId",
+    "nFORCE__Generator_Class__c",
+    "nFORCE__lookupKey__c",
+    "nFORCE__Category__c",
+    "nFORCE__Layout_Description__c",
+    "nFORCE__Layout_Preview_Image__c",
+    "nFORCE__Visualforce_Page__c"
+  ],
+  "records": {
+    "1": {
+      "ConnectionReceivedId": "",
+      "ConnectionSentId": "",
+      "CreatedById": "0055w00000CM4vxAAD",
+      "CreatedDate": "2020-05-14T11:36:46.000Z",
+      "Id": "a2C5w000003u1c0EAA",
+      "IsDeleted": "",
+      "LastModifiedById": "0055w00000CM4vxAAD",
+      "LastModifiedDate": "2020-05-14T11:36:46.000Z",
+      "Name": "TwoColumnGrid",
+      "OwnerId": "0055w00000CM4vxAAD",
+      "SystemModstamp": "",
+      "nFORCE__Category__c": "",
+      "nFORCE__Generator_Class__c": "Html.Layouts.TwoColumnGrid",
+      "nFORCE__Layout_Description__c": "",
+      "nFORCE__Layout_Preview_Image__c": "",
+      "nFORCE__Visualforce_Page__c": "",
+      "nFORCE__lookupKey__c": "42850165746207169"
+    }
+  }
+}
